@@ -1,6 +1,6 @@
-# Communication-with-LCD-from-Scratch
+# SDK-for-LCD
 ## Description
-Communication with LCD screen from scratch (without using an existing SDK). <br>
+An SDK for my LCD screen. <br>
 For this Project I used Ardoino Uno.
 
 ## Screenshot
