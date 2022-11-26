@@ -1,4 +1,4 @@
-# SDK-for-LCD
+# SDK-for-LCD-Screen
 ## Description
 An SDK for my LCD screen. <br>
 For this Project I used Ardoino Uno.
